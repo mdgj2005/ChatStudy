@@ -101,6 +101,7 @@ def client_program():
 
 if __name__ == '__main__':
     client_program()
+```
 Server
 ```
 import socket
@@ -132,6 +133,11 @@ def server_program():
 
 if __name__ == '__main__':
     server_program()
+```
+
+
+    
+       
 
     OUTPUT:
     
