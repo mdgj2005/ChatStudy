@@ -134,22 +134,13 @@ def server_program():
 if __name__ == '__main__':
     server_program()
 ```
+OUTPUT:
+CLIENT:
+![image](https://github.com/mdgj2005/ChatStudy/assets/145533936/72c1e9d4-db5d-4b5f-be9e-c96b7bb09413)
 
+SERVER:
 
-    
-       
-
-    OUTPUT:
-    
-    CLIENT:
-    
-    ![image](https://github.com/mdgj2005/ChatStudy/assets/145533936/9cff5913-ff79-48ee-ab50-3ca575aafef6)
-
-    SERVER:
-
-    ![image](https://github.com/mdgj2005/ChatStudy/assets/145533936/b3c6647e-287f-44ff-9b6e-7046f44a6d25)
-
-
+![image](https://github.com/mdgj2005/ChatStudy/assets/145533936/ec2010dc-ae3d-4309-bcde-50b75062351b)
 
 
 ## Result:
